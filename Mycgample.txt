@@ -1,1 +1,2 @@
 Welcome to scm and vcs
+changes by developer 1 thank you
